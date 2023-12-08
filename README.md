@@ -1,4 +1,4 @@
-# Airline_Passenger_Satisfication_Analysis
+# Airline_Passenger_Satisfaction_Analysis
 Analyzed airline customer satisfaction reviews for major US domestic and international airlines using Python.
 
 Selected a list of important features that contribute heavily towards the ratings using Chi-Square Distribution and Eli5.
